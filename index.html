@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
+    />
+    <title>Crossing PetClinic</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap"
+      rel="stylesheet"/>
+
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"/>
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="css/main.css"/>
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="main-title text-center">Comida premium para tu perro</h1>
+      <div class="filtros">
+        <input
+          type="search"
+          name="busqueda"
+          id="busqueda"
+          placeholder="Buscar un tipo de alimento..."
+          maximum-scale="1"/>
+      </div>
+    </header>
+    <div id="catalogo" class="catalogo"></div>
+    <div id="carrito" class="carrito">
+      <div class="total-carrito"></div>
+      <span id="cerrar-carrito" class="material-icons md-36 close-icon">
+        close
+      </span>
+      <button class="vaciar-carrito" id="vaciar-carrito">
+        <span class="material-icons md-16">delete</span>
+      </button>
+      <div class="contenedor-carrito">
+        <p>No hay productos en tu carrito.</p>
+      </div>
+    </div>
+
+    <span id="btn-carrito" class="material-icons md-36 carrito-icon">
+      shopping_cart
+      <span class="carrito-cantidad" id="carrito-cantidad"></span>
+    </span>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

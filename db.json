@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ganador premium para adulto",
+      "precio": 300,
+      "imagen": "índice.jpg",
+      "marca": "GANADOR",
+      "beneficios": "Alimento de gran sabor y alto contenido nutricional para nuestros cachorros: • Con alta cantidad de antioxidantes para reforzar sus defensas y sistema inmune. • Con prebióticos y probióticos para equilibrar la flora intestinal. • Formulado con neuronutrientes para estimular el desarrollo neurológico y ayudar a mejorar la memoria y el aprendizaje. • Contiene calcio y vitamina D para desarrollar huesos y dientes fuertes. • Heces firmes. • Optimo desarrollo óseo y muscular. • Máxima absorción de nutrientes. ",
+      "descripcion": "Ganador premium. Rico alimento especialmente formulado para aportar una alimentación de máxima calidad a nuestros amigos cachorros durante sus primeros pasos, aportándoles todos las vitaminas, proteínas y minerales que necesitan para crecer sanos y fuertes. "
+    },
+    {
+      "id": 2,
+      "nombre": "Perfect sense-Alimento Seco para Cachorro Raza Mediana y Grande",
+      "precio": 450,
+      "imagen": "perfect_sense.jpg",
+      "marca": "PERFECT SENSE",
+      "beneficios": "Delicioso alimento seco específicamente creado para tu cachorrito de raza mediana y grande: • Contiene proteína (26%) para músculos fuertes. • Balanceado y nutritivo, con un gran sabor. • Adicionado con vitaminas y minerales. • Ingredientes 100% naturales. • Libre de químicos y conservadores dañinos.",
+      "descripcion": "Dale a tu cachorro un alimento diseñado específicamente para sus necesidades ya que contienen el nivel exacto de proteína que necesita tu mascota para desarrollar músculos fuertes y sanos"
+    },
+    {
+      "id": 3,
+      "nombre": "Full Trust Super Premium-Alimento Seco para Perro Adulto",
+      "precio": 500,
+      "imagen": "515zDS9aziL._AC_SX679_.jpg",
+      "marca": "FULL TRUST",
+      "beneficios": "Envejecimiento celular retardado con antioxidantes como vitaminas E y C, extractos de romero y orégano, que ayudan a retrasar el proceso del envejecimiento celular, sistema cardiovascular reforzado, con ácidos grasos omega 3 (DHA y EPA) que ayudan a mantener niveles saludables de triglicéridos, lo cual favorece un mejor flujo sanguíneo, articulaciones sanas, contiene glucosamina y condroitina de origen natural y ácido eicosapentaenoico que promueven la salud articular, salud intestinal, contiene prebióticos (manano-oligosacáridos y beta glucanos) y probióticos (lactobacillus y saccharomyces) que ayudan a desarrollar una microbiota intestinal saludable, nutrición capilar con biotina, glicinato de zinc y una adecuada relación de ácidos grasos Omega 3 y 6, presentes en algas marinas, atún, aceite de salmón y grasas animales para una piel saludable y un pelaje brilloso. ",
+      "descripcion": "Full trust. Todos los días buscas que el mundo sea un gran lugar para los perros. Todo comienza en ellos, porque cuando ayudas a alimentarlos con la confianza de FullTrust®, obtienen todo lo que necesitan para transformarse en su mejor versión. Detrás de cada gran perro siempre hay un gran padre. "
+    },
+    {
+      "id": 4,
+      "nombre": "Hill's Science Diet Adult 7+-Alimento para Perro Adulto Mayor",
+      "precio": 2048,
+      "imagen": "atf1_604285_enhanced_pack_front_2.jpg",
+      "marca": "HILL'S SCIENCE DIET",
+      "beneficios": "-Minerales balanceados para un corazón y riñón saludables. - Omega 6s y vitamina E para un pelaje radiante. - Proteína para construir músculos magros.",
+      "descripcion": "Hill's Science Diet Adult 7+. Está específicamente formulado para ayudar a los perros de 7 años o más a mantenerse sanos a medida que envejecen. Desarrollado por científicos y nutriólogos de Hill's, este alimento está hecho con ingredientes naturales más vitaminas, minerales y aminoácidos, y no contiene colores, sabores o conservadores artificiales. También proporciona una mezcla de antioxidantes clínicamente comprobada para favorecer un sistema inmunológico sano. "
+    },
+    {
+      "id": 5,
+      "nombre": "Combo de Terror Woow Esencial-Alimento Seco para Perro Adulto",
+      "precio": 800,
+      "imagen": "91a4hvCgAeL._AC_SY879_.jpg",
+      "marca": "WOOW  ",
+      "beneficios": "Alimento para todas las razas. • Alimentación adecuada, cubre las necesidades nutricionales y de energía de tu mascota. • Calidad y economía.",
+      "descripcion": "Woow. Elaborado para dar una alimentación adecuada a tu mascota en casa, cubriendo todas las necesidades nutricionales, de energía y digestibilidad. Mejora las funciones inmunológicas, mejoran la flora del intestino favoreciendo la absorción de los nutrientes."
+    },
+    {
+      "id": 6,
+      "nombre": "KIRKLAND-Nature's Domain Pavo y Camote",
+      "precio": 1100,
+      "imagen": "11052626935838.jpg",
+      "marca": "KIRKLAND",
+      "beneficios": "Este alimento es delicioso y además de excelente calidad, le ofrece grandes beneficios a tu peludo de cualquier edad, raza o tamaño: • Contiene prebióticos que promueven un sistema digestivo sano y mayor absorción de nutrientes. • Perfecta para todos los peludos, especialmente para los que son sensibles a los granos. • Ácidos grasos omega para una piel y pelo saludable y brilloso. • Niveles altos de vitamina E y selenio le darán un estilo de vida saludable. • La fibra natural de raíz de achicoria y productos de fermentación ayudan a tener un sistema digestivo saludable. • Esta fórmula sin granos ofrece una excelente nutrición a lo largo de toda la vida de tu amigo.",
+      "descripcion": "Kirkland Signature. Alimento delicioso natural y sin granos, diseñado para tu amigo perro, satisface las necesidades nutricionales de todas las edades, tamaños o razas. Elaborado con pavo y adicionada con antioxidantes y ácidos grasos omega para darle una buena nutrición y vitalidad a tu peludo."
+    },
+    {
+      "id": 7,
+      "nombre": "Acana-Freshwater Fish Recipe",
+      "precio": 2095,
+      "imagen": "41c+Qkc9eNL._AC_.jpg",
+      "marca": "ACANA",
+      "beneficios": "Los dos primeros ingredientes son la trucha arcoíris cruda y el bagre; rico en nutrientes y rico en proteínas. Nuestros ingredientes crudos se congelan en su máxima frescura. • Incluye verduras y frutas frescas como calabaza entera, col rizada, manzanas y peras. • Sin ingredientes de cereales añadidos, soja, maíz, trigo o tapioca. • Cubierto con hígado de bacalao liofilizado para un delicioso sabor que su perro deseará. • Fabricado en los Estados Unidos con los mejores ingredientes del mundo.",
+      "descripcion": "Acana. La receta de pescado de agua dulce está equilibrada con un 60 %* de ingredientes animales de calidad, como trucha arcoíris, bagre y perca, y un 40 % o más de frutas, verduras y productos botánicos. Nunca se agregan colores, sabores o conservantes artificiales en nuestra cocina."
+    },
+    {
+      "id": 8,
+      "nombre": "Orijen-Fit & Trim",
+      "precio": 1587,
+      "imagen": "orijen-fit-trim-dog-1-300x500.jpg",
+      "marca": "ORIJEN",
+      "beneficios": "Bríndale los nutrientes necesarios a tu amigo perro con este rico alimento: •Contiene dos tercios en ingredientes de animales frescos o crudos para darle las proteínas que necesita •Con una infusión de hígado liofilizado el cual le da un delicioso sabor que a tu amigo perro le encantará •Los nutrientes de este rico alimento son ideales para mantener sano y contento a tu peludo •Biológicamente apropiado para una dieta rica en proteínas",
+      "descripcion": "Orijen Fit & Trim. Consiente a tu amigo perro con este delicioso alimento lleno de fibra y proteínas las cuales le ayudará a mantener su masa muscular mientras tiene un máximo acondicionamiento y le ayudará a mantener un peso saludable."
+    },
+    {
+      "id": 9,
+      "nombre": "Eukanuba-Alimento Seco Fit Body Control de Peso Adulto Talla Pequeña",
+      "precio": 419,
+      "imagen": "eukanuba-weight-control-raza-pequena.jpg",
+      "marca": "EUKANUBA",
+      "beneficios": "Reduce la acumulación de sarro y contiene antioxidantes naturales para un sistema inmune fuerte. Les ayuda a tener huesos y articulaciones saludables.",
+      "descripcion": "Eukanuba Fit Body Weight Control Small Breed es un alimento para nuestros amigos adultos de raza chica que pesan menos de 10 Kg, con tendencia a subir de peso."
+    },
+    {
+      "id": 10,
+      "nombre": "Royal Canin - Alimento Seco para Perro Adulto Raza Gigante",
+      "precio": 2500,
+      "imagen": "D_NQ_NP_811512-MLA41371242308_042020-O.jpg",
+      "marca": "ROYAL CANIN",
+      "beneficios": "Este rico alimento aporta a nuestros amigos de razas gigantes grandiosos beneficios como : • HUESOS Y ARTICULACIONES SALUDABLES: Ayuda a promover la salud de los huesos y de las articulaciones de los perros de razas gigantes, que pueden resentirse debido al peso de su cuerpo. • COMPLEJO DE ANTIOXIDANTES: Contiene un exclusivo complejo de antioxidantes para ayudar a promover la salud celular. • SALUD CARDÍACA: Formulado con nutrientes clave (incluyendo taurina) para promover la salud cardíaca en los perros de razas gigantes.",
+      "descripcion": "Royal Canin Giant Adult, rico alimento para nuestros amigos adultos de raza gigante a partir de los 2 años de edad, el cual los ayuda a mantener la vitalidad y forma ideal."
+    }
+  ]
